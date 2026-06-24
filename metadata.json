@@ -1,0 +1,6 @@
+{
+  "name": "Franriib Lab",
+  "description": "E-commerce de produtos 3D com catálogo interativo de customização, checkout com Pix/Cartão, blog e painel de administração.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
